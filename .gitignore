@@ -1,0 +1,8 @@
+.venv/
+db.sqlite3
+.DS_Store
+Thumbs.db
+*.log
+__pycache__/
+*.py[cod]
+*$py.class

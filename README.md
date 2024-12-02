@@ -6,7 +6,7 @@ LibraryAPI é uma API RESTful desenvolvida para o gerenciamento de uma bibliotec
 
 - Gerenciamento de Livros (CRUD)
 - Gestão de Empréstimos (CRUD)
-- Cadastro e Autênciação de Usuários
+- Cadastro e Autênticação de Usuários
 
 ## Tecnologias Utilizadas
 

@@ -1,3 +1,5 @@
+## Introdução
+
 LibraryAPI é uma API RESTful desenvolvida para o gerenciamento de uma biblioteca de livros como parte de um projeto backend com uso de frameworks Django.
 
 ## Funcionalidades

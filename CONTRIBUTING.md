@@ -9,12 +9,6 @@ $ git clone https://github.com/seu-usuario/seu-fork.git
 
 ## Configure o Ambiente
 
-Primeiro abra o terminal e clone o repositório.
-
-```bash
-$ git clone https://github.com/DaviRafaelDev/LibraryAPI
-```
-
 Navegue até a pasta raiz do projeto.
 
 ```bash

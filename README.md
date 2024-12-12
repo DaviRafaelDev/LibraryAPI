@@ -53,6 +53,11 @@ Inicie o App.
 $ python manage.py runserver
 ```
 
+Caso tenha interesse, você pode executar testes unitários com alguns casos de uso, basta executar o seguinte comando:
+```bash
+$ pytest
+```
+
 Você também pode criar um superusuário para manipular diretamente os dados sem passar pela autênticação
 ```bash
 $ python manage.py createsuperuser
